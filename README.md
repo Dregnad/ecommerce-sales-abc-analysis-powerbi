@@ -92,7 +92,7 @@ Analiza koncentruje się na strukturze geograficznej rynków oraz dynamice sprze
 ![Market & Sales Trends](Rynki%20i%20Trendy.png)
 
 **Najważniejsze obserwacje:**
-- Rynek Wielkiej Brytanii (United Kingdom) jest całkowicie dominującym źródłem przychodów.
+- Najwyższą średnią wartość transakcji generują rynki skandynawskie oraz azjatyckie (m.in. **Sweden, Netherlands, Japan**).
 - Skokowy wzrost sprzedaży pomiędzy 2018 a 2019 rokiem jest w największym stopniu napędzany przez rozwój produktów z klasy A.
 - Analiza trendów pozwala identyfikować okresy wzrostu i spadku sprzedaży.
 
