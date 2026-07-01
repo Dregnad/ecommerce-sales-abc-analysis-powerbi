@@ -92,7 +92,7 @@ Analiza koncentruje się na strukturze geograficznej rynków oraz dynamice sprze
 ![Market & Sales Trends](Rynki%20i%20Trendy.png)
 
 **Najważniejsze obserwacje:**
-- Najwyższą średnią wartość transakcji generują rynki skandynawskie oraz azjatyckie (m.in. **Sweden, Netherlands, Japan**).
+Najwyższą średnią wartość zamówienia generują rynki takie jak **Sweden, Netherlands** oraz **Japan**, gdzie średnia wartość transakcji przekracza **1500 zł**.
 - Skokowy wzrost sprzedaży pomiędzy 2018 a 2019 rokiem jest w największym stopniu napędzany przez rozwój produktów z klasy A.
 - Analiza trendów pozwala identyfikować okresy wzrostu i spadku sprzedaży.
 
